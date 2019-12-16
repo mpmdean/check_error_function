@@ -1,1 +1,2 @@
 jupyter nbconvert checking_error_function.ipynb --to pdf --template my_fixed_indent.tplx
+jupyter nbconvert checking_form_in_manuscript.ipynb --to pdf --template my_fixed_indent.tplx
